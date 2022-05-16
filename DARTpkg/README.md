@@ -7,8 +7,8 @@ In R, run the following block of codes:
 
 
 remotes::install_github(
-  repo = "xxli8080/DARTpkg",
-  subdir = "DART",
+  repo = "jichunxie/DART",
+  subdir = "DARTpkg/DART",
   build_vignettes = TRUE,
   build_manual = TRUE)
 
